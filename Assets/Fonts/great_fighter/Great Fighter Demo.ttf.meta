@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: f75162635d68041898084baae570a593
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Great Fighter
+  fontNames:
+  - Great Fighter
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 9ef2b6910197e442eb7ed2f2606f4697, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
