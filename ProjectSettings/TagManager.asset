@@ -10,6 +10,7 @@ TagManager:
   - Scored
   - Shot
   - Canvas
+  - Barrier
   layers:
   - Default
   - TransparentFX

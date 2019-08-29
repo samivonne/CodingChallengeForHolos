@@ -34,6 +34,17 @@ public class Score : MonoBehaviour {
         }
     }
 
+    private void OnTriggerExit(Collider other)
+    {
+        if(other.gameObject.tag == "Barrier") {
+            transform.position = new Vector3(0, 1f, -9);
+            rb.velocity = Vector3.zero;
+
+            restartBall = true;
+            rb.isKinematic = true;
+        }
+    }
+
     void Update () {
         if (restartBall)
         {
