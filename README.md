@@ -1,7 +1,7 @@
 # CodingChallengeForHolos
 
 CONTROLS: 
-WASD to walk around. use Mouse to control gravity gun. left click and hold to move the boulder around. F to shoot. 
+WASD to walk around. SPACE to jump. Use Mouse to control gravity gun. left click and hold to move the boulder around. F to shoot. Goal is to shoot into black voids. Bees cannot hurt you but they will get in your way!
 
 This is the coding challenge for Holos. 
 
